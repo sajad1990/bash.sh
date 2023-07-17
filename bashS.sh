@@ -3,7 +3,7 @@
 
 #!/bin/bash
 
-yourName="example"  # Replace "example" with your desired name
+yourName="sajjad"  # Replace "sajjad" with your desired name
 number=1
 
 for ((i=1; i<=25; i++))
